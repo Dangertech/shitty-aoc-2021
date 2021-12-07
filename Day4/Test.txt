@@ -1,0 +1,3542 @@
+strnum: 12!
+strnum: 75!
+strnum: 58!
+strnum: 21!
+strnum: 87!
+strnum: 55!
+strnum: 80!
+strnum: 14!
+strnum: 63!
+strnum: 17!
+strnum: 37!
+strnum: 35!
+strnum: 76!
+strnum: 92!
+strnum: 56!
+strnum: 72!
+strnum: 68!
+strnum: 51!
+strnum: 19!
+strnum: 38!
+strnum: 91!
+strnum: 60!
+strnum: 34!
+strnum: 30!
+strnum: 88!
+strnum: !
+strnum: 0!
+strnum: 66!
+strnum: !
+strnum: 5!
+strnum: 51!
+strnum: !
+strnum: 8!
+strnum: 45!
+strnum: 57!
+strnum: 31!
+strnum: !
+strnum: 3!
+strnum: 62!
+strnum: !
+strnum: 7!
+strnum: 60!
+strnum: 40!
+strnum: 29!
+strnum: 90!
+strnum: 80!
+strnum: 19!
+strnum: 47!
+strnum: 86!
+strnum: 81!
+strnum: 95!
+strnum: 69!
+strnum: 68!
+strnum: 53!
+strnum: 93!
+strnum: 30!
+strnum: 99!
+strnum: 16!
+strnum: 34!
+strnum: 42!
+strnum: 94!
+strnum: 39!
+strnum: 83!
+strnum: 78!
+strnum: 49!
+strnum: 57!
+strnum: 81!
+strnum: 97!
+strnum: 77!
+strnum: 52!
+strnum: !
+strnum: 9!
+strnum: 61!
+strnum: 98!
+strnum: 11!
+strnum: 89!
+strnum: 85!
+strnum: !
+strnum: 1!
+strnum: 60!
+strnum: 90!
+strnum: 55!
+strnum: 87!
+strnum: 49!
+strnum: 12!
+strnum: 85!
+strnum: 88!
+strnum: 67!
+strnum: 89!
+strnum: !
+strnum: 7!
+strnum: 35!
+strnum: 70!
+strnum: 37!
+strnum: 45!
+strnum: 93!
+strnum: 84!
+strnum: !
+strnum: 9!
+strnum: 80!
+strnum: 58!
+strnum: 54!
+strnum: 13!
+strnum: 22!
+strnum: !
+strnum: 8!
+strnum: 71!
+strnum: 48!
+strnum: 15!
+strnum: 39!
+strnum: 40!
+strnum: 79!
+strnum: 34!
+strnum: 18!
+strnum: 42!
+strnum: 35!
+strnum: !
+strnum: 8!
+strnum: 64!
+strnum: !
+strnum: 5!
+strnum: 63!
+strnum: 93!
+strnum: 57!
+strnum: 16!
+strnum: 10!
+strnum: 96!
+strnum: 22!
+strnum: 20!
+strnum: 23!
+strnum: !
+strnum: 0!
+strnum: 86!
+strnum: 61!
+strnum: 78!
+strnum: 68!
+strnum: 83!
+strnum: 12!
+strnum: 43!
+strnum: 78!
+strnum: 64!
+strnum: 70!
+strnum: 49!
+strnum: 60!
+strnum: 54!
+strnum: 31!
+strnum: 82!
+strnum: !
+strnum: 9!
+strnum: 10!
+strnum: 69!
+strnum: !
+strnum: 2!
+strnum: !
+strnum: 1!
+strnum: 50!
+strnum: 37!
+strnum: 12!
+strnum: 16!
+strnum: 77!
+strnum: 25!
+strnum: 18!
+strnum: 14!
+strnum: 57!
+strnum: 13!
+strnum: 91!
+strnum: 42!
+strnum: 85!
+strnum: 53!
+strnum: 57!
+strnum: 52!
+strnum: 19!
+strnum: 41!
+strnum: 84!
+strnum: 68!
+strnum: 28!
+strnum: 39!
+strnum: 22!
+strnum: 55!
+strnum: 51!
+strnum: 87!
+strnum: 49!
+strnum: 23!
+strnum: !
+strnum: 5!
+strnum: 66!
+strnum: 71!
+strnum: 72!
+strnum: 83!
+strnum: 86!
+strnum: 35!
+strnum: 50!
+strnum: 91!
+strnum: 75!
+strnum: !
+strnum: 9!
+strnum: 62!
+strnum: 82!
+strnum: 47!
+strnum: 37!
+strnum: 94!
+strnum: !
+strnum: 6!
+strnum: 55!
+strnum: 96!
+strnum: 38!
+strnum: !
+strnum: 8!
+strnum: 19!
+strnum: 22!
+strnum: 46!
+strnum: 66!
+strnum: 54!
+strnum: 43!
+strnum: 59!
+strnum: !
+strnum: 1!
+strnum: !
+strnum: 0!
+strnum: 26!
+strnum: 36!
+strnum: 74!
+strnum: 19!
+strnum: 78!
+strnum: 25!
+strnum: 10!
+strnum: 80!
+strnum: 23!
+strnum: 88!
+strnum: 95!
+strnum: 42!
+strnum: 11!
+strnum: 54!
+strnum: 85!
+strnum: 52!
+strnum: 92!
+strnum: 31!
+strnum: 73!
+strnum: 87!
+strnum: !
+strnum: 9!
+strnum: 17!
+strnum: 93!
+strnum: !
+strnum: 2!
+strnum: 46!
+strnum: 12!
+strnum: 24!
+strnum: 83!
+strnum: 84!
+strnum: 73!
+strnum: 85!
+strnum: 51!
+strnum: 89!
+strnum: 41!
+strnum: 26!
+strnum: 98!
+strnum: 11!
+strnum: 29!
+strnum: 81!
+strnum: !
+strnum: 6!
+strnum: 35!
+strnum: 39!
+strnum: 76!
+strnum: 27!
+strnum: 10!
+strnum: 49!
+strnum: !
+strnum: 4!
+strnum: 92!
+strnum: 55!
+strnum: 43!
+strnum: 28!
+strnum: 45!
+strnum: 88!
+strnum: 23!
+strnum: !
+strnum: 0!
+strnum: 19!
+strnum: 26!
+strnum: 73!
+strnum: 72!
+strnum: 42!
+strnum: 40!
+strnum: 58!
+strnum: 38!
+strnum: 36!
+strnum: 46!
+strnum: 18!
+strnum: 89!
+strnum: 52!
+strnum: 85!
+strnum: 35!
+strnum: 50!
+strnum: 13!
+strnum: !
+strnum: 1!
+strnum: 66!
+strnum: 57!
+strnum: 45!
+strnum: 81!
+strnum: 25!
+strnum: 11!
+strnum: 71!
+strnum: 35!
+strnum: !
+strnum: 0!
+strnum: 95!
+strnum: 45!
+strnum: 16!
+strnum: 78!
+strnum: 33!
+strnum: 31!
+strnum: 30!
+strnum: 34!
+strnum: 25!
+strnum: 91!
+strnum: 36!
+strnum: 83!
+strnum: 58!
+strnum: !
+strnum: 8!
+strnum: !
+strnum: 3!
+strnum: 62!
+strnum: 67!
+strnum: 14!
+strnum: 72!
+strnum: 93!
+strnum: 28!
+strnum: 63!
+strnum: 41!
+strnum: 19!
+strnum: 80!
+strnum: 27!
+strnum: 69!
+strnum: 15!
+strnum: 99!
+strnum: 75!
+strnum: 95!
+strnum: 47!
+strnum: 86!
+strnum: 52!
+strnum: 22!
+strnum: 12!
+strnum: 66!
+strnum: 43!
+strnum: 37!
+strnum: !
+strnum: 6!
+strnum: 97!
+strnum: 13!
+strnum: !
+strnum: 1!
+strnum: !
+strnum: 5!
+strnum: 71!
+strnum: 83!
+strnum: 19!
+strnum: 42!
+strnum: 85!
+strnum: 53!
+strnum: 31!
+strnum: 36!
+strnum: 14!
+strnum: 75!
+strnum: 39!
+strnum: 74!
+strnum: 70!
+strnum: 86!
+strnum: 97!
+strnum: 72!
+strnum: 69!
+strnum: 15!
+strnum: 20!
+strnum: 41!
+strnum: !
+strnum: 6!
+strnum: 21!
+strnum: 26!
+strnum: 33!
+strnum: 48!
+strnum: 98!
+strnum: 34!
+strnum: !
+strnum: 1!
+strnum: 79!
+strnum: 21!
+strnum: 38!
+strnum: 44!
+strnum: 63!
+strnum: 71!
+strnum: 14!
+strnum: 17!
+strnum: 87!
+strnum: 41!
+strnum: 76!
+strnum: 56!
+strnum: 49!
+strnum: 59!
+strnum: !
+strnum: 3!
+strnum: 18!
+strnum: !
+strnum: 6!
+strnum: !
+strnum: 4!
+strnum: 77!
+strnum: 34!
+strnum: 19!
+strnum: 88!
+strnum: 24!
+strnum: 10!
+strnum: 78!
+strnum: 20!
+strnum: 30!
+strnum: 54!
+strnum: 92!
+strnum: 25!
+strnum: 63!
+strnum: 81!
+strnum: !
+strnum: 0!
+strnum: 69!
+strnum: 46!
+strnum: 87!
+strnum: 26!
+strnum: 56!
+strnum: 40!
+strnum: 90!
+strnum: 82!
+strnum: 50!
+strnum: 84!
+strnum: 66!
+strnum: 96!
+strnum: 41!
+strnum: 18!
+strnum: 29!
+strnum: 23!
+strnum: 34!
+strnum: !
+strnum: 1!
+strnum: 59!
+strnum: 55!
+strnum: 30!
+strnum: 97!
+strnum: 19!
+strnum: 82!
+strnum: 23!
+strnum: 77!
+strnum: 21!
+strnum: 52!
+strnum: 56!
+strnum: 48!
+strnum: 24!
+strnum: 29!
+strnum: 43!
+strnum: 28!
+strnum: 99!
+strnum: 69!
+strnum: !
+strnum: 4!
+strnum: 37!
+strnum: 84!
+strnum: 76!
+strnum: 58!
+strnum: 96!
+strnum: 10!
+strnum: 11!
+strnum: 79!
+strnum: 40!
+strnum: 90!
+strnum: 29!
+strnum: 59!
+strnum: 73!
+strnum: 84!
+strnum: 16!
+strnum: 62!
+strnum: 74!
+strnum: 42!
+strnum: 92!
+strnum: 43!
+strnum: 32!
+strnum: 58!
+strnum: 46!
+strnum: 34!
+strnum: 75!
+strnum: 12!
+strnum: 57!
+strnum: 22!
+strnum: 15!
+strnum: 29!
+strnum: 82!
+strnum: 47!
+strnum: 16!
+strnum: 12!
+strnum: 78!
+strnum: 84!
+strnum: 83!
+strnum: !
+strnum: 0!
+strnum: 77!
+strnum: 51!
+strnum: 64!
+strnum: !
+strnum: 5!
+strnum: 37!
+strnum: !
+strnum: 7!
+strnum: 49!
+strnum: 70!
+strnum: 19!
+strnum: 69!
+strnum: !
+strnum: 8!
+strnum: 67!
+strnum: 63!
+strnum: !
+strnum: 6!
+strnum: 43!
+strnum: 79!
+strnum: 87!
+strnum: 67!
+strnum: 52!
+strnum: 64!
+strnum: !
+strnum: 8!
+strnum: 55!
+strnum: 43!
+strnum: 82!
+strnum: 50!
+strnum: 13!
+strnum: !
+strnum: 3!
+strnum: 19!
+strnum: 94!
+strnum: 54!
+strnum: 83!
+strnum: 80!
+strnum: 59!
+strnum: 15!
+strnum: 32!
+strnum: 37!
+strnum: !
+strnum: 0!
+strnum: 58!
+strnum: 12!
+strnum: 89!
+strnum: 96!
+strnum: 95!
+strnum: 31!
+strnum: 14!
+strnum: 77!
+strnum: 83!
+strnum: 26!
+strnum: 68!
+strnum: 33!
+strnum: 39!
+strnum: 85!
+strnum: 71!
+strnum: 56!
+strnum: 45!
+strnum: 46!
+strnum: 30!
+strnum: 44!
+strnum: 93!
+strnum: 16!
+strnum: 17!
+strnum: 52!
+strnum: 86!
+strnum: !
+strnum: 8!
+strnum: 27!
+strnum: !
+strnum: 3!
+strnum: 25!
+strnum: 27!
+strnum: 67!
+strnum: 81!
+strnum: 30!
+strnum: 95!
+strnum: 48!
+strnum: 89!
+strnum: !
+strnum: 7!
+strnum: !
+strnum: 4!
+strnum: !
+strnum: 3!
+strnum: 82!
+strnum: 90!
+strnum: 78!
+strnum: 85!
+strnum: 44!
+strnum: 22!
+strnum: 16!
+strnum: 97!
+strnum: 92!
+strnum: 11!
+strnum: 15!
+strnum: 87!
+strnum: 47!
+strnum: 79!
+strnum: 62!
+strnum: 49!
+strnum: 51!
+strnum: 35!
+strnum: 87!
+strnum: 75!
+strnum: !
+strnum: 3!
+strnum: 70!
+strnum: !
+strnum: 8!
+strnum: 43!
+strnum: !
+strnum: 5!
+strnum: 77!
+strnum: 88!
+strnum: 73!
+strnum: 81!
+strnum: 29!
+strnum: 42!
+strnum: 62!
+strnum: 50!
+strnum: 37!
+strnum: 85!
+strnum: 26!
+strnum: 86!
+strnum: 14!
+strnum: 38!
+strnum: 65!
+strnum: 81!
+strnum: !
+strnum: 9!
+strnum: 84!
+strnum: !
+strnum: 3!
+strnum: 37!
+strnum: 33!
+strnum: 32!
+strnum: !
+strnum: 1!
+strnum: 54!
+strnum: 45!
+strnum: 39!
+strnum: 83!
+strnum: 82!
+strnum: 36!
+strnum: !
+strnum: 2!
+strnum: 56!
+strnum: 28!
+strnum: 76!
+strnum: 85!
+strnum: 40!
+strnum: 96!
+strnum: 69!
+strnum: 43!
+strnum: 24!
+strnum: 71!
+strnum: 83!
+strnum: 72!
+strnum: 50!
+strnum: 46!
+strnum: 34!
+strnum: 15!
+strnum: 51!
+strnum: 87!
+strnum: 44!
+strnum: 71!
+strnum: !
+strnum: 8!
+strnum: 78!
+strnum: 10!
+strnum: 94!
+strnum: 11!
+strnum: 67!
+strnum: 40!
+strnum: 85!
+strnum: 93!
+strnum: 35!
+strnum: 17!
+strnum: 23!
+strnum: 24!
+strnum: !
+strnum: 0!
+strnum: 61!
+strnum: 62!
+strnum: 55!
+strnum: 47!
+strnum: 77!
+strnum: 95!
+strnum: 81!
+strnum: 20!
+strnum: 35!
+strnum: !
+strnum: 8!
+strnum: 78!
+strnum: !
+strnum: 7!
+strnum: !
+strnum: 9!
+strnum: 89!
+strnum: 27!
+strnum: 51!
+strnum: 80!
+strnum: 39!
+strnum: 33!
+strnum: 63!
+strnum: 50!
+strnum: 67!
+strnum: 34!
+strnum: !
+strnum: 4!
+strnum: 87!
+strnum: 57!
+strnum: 72!
+strnum: 88!
+strnum: 74!
+strnum: 46!
+strnum: 91!
+strnum: 67!
+strnum: 66!
+strnum: 32!
+strnum: !
+strnum: 0!
+strnum: !
+strnum: 9!
+strnum: !
+strnum: 3!
+strnum: 69!
+strnum: 94!
+strnum: !
+strnum: 6!
+strnum: 81!
+strnum: 40!
+strnum: 95!
+strnum: 29!
+strnum: 83!
+strnum: 20!
+strnum: 80!
+strnum: 68!
+strnum: 55!
+strnum: 54!
+strnum: !
+strnum: 2!
+strnum: 72!
+strnum: 68!
+strnum: 65!
+strnum: 91!
+strnum: 81!
+strnum: 52!
+strnum: 34!
+strnum: 88!
+strnum: 46!
+strnum: 48!
+strnum: 66!
+strnum: !
+strnum: 4!
+strnum: 54!
+strnum: 27!
+strnum: 62!
+strnum: 83!
+strnum: 60!
+strnum: 69!
+strnum: 26!
+strnum: 56!
+strnum: 19!
+strnum: 11!
+strnum: 35!
+strnum: 22!
+strnum: 84!
+strnum: 72!
+strnum: 69!
+strnum: 92!
+strnum: 87!
+strnum: 83!
+strnum: 55!
+strnum: 95!
+strnum: 85!
+strnum: 66!
+strnum: !
+strnum: 1!
+strnum: 16!
+strnum: !
+strnum: 3!
+strnum: 86!
+strnum: !
+strnum: 5!
+strnum: 99!
+strnum: 24!
+strnum: 22!
+strnum: 29!
+strnum: 53!
+strnum: 90!
+strnum: 76!
+strnum: 73!
+strnum: 48!
+strnum: 80!
+strnum: 42!
+strnum: 38!
+strnum: 22!
+strnum: 94!
+strnum: 50!
+strnum: 20!
+strnum: 40!
+strnum: 52!
+strnum: 61!
+strnum: 39!
+strnum: 62!
+strnum: !
+strnum: 7!
+strnum: 35!
+strnum: 95!
+strnum: 54!
+strnum: 66!
+strnum: 37!
+strnum: 59!
+strnum: 84!
+strnum: 76!
+strnum: !
+strnum: 2!
+strnum: 81!
+strnum: 85!
+strnum: !
+strnum: 0!
+strnum: 48!
+strnum: !
+strnum: 6!
+strnum: 90!
+strnum: 95!
+strnum: 34!
+strnum: 93!
+strnum: !
+strnum: 8!
+strnum: 46!
+strnum: 13!
+strnum: !
+strnum: 6!
+strnum: 58!
+strnum: 85!
+strnum: 91!
+strnum: 89!
+strnum: 83!
+strnum: 80!
+strnum: 18!
+strnum: 56!
+strnum: 57!
+strnum: 44!
+strnum: 99!
+strnum: 17!
+strnum: 21!
+strnum: 42!
+strnum: 12!
+strnum: 74!
+strnum: 38!
+strnum: 28!
+strnum: 61!
+strnum: 78!
+strnum: 99!
+strnum: 23!
+strnum: 75!
+strnum: 64!
+strnum: 37!
+strnum: 66!
+strnum: 50!
+strnum: 53!
+strnum: 70!
+strnum: 89!
+strnum: 17!
+strnum: 63!
+strnum: 43!
+strnum: 38!
+strnum: 71!
+strnum: 26!
+strnum: 85!
+strnum: !
+strnum: 4!
+strnum: 13!
+strnum: !
+strnum: 2!
+strnum: 27!
+strnum: 18!
+strnum: 35!
+strnum: 12!
+strnum: 60!
+strnum: !
+strnum: 7!
+strnum: 29!
+strnum: 87!
+strnum: 65!
+strnum: 17!
+strnum: 81!
+strnum: 10!
+strnum: 42!
+strnum: 62!
+strnum: 99!
+strnum: 38!
+strnum: 51!
+strnum: !
+strnum: 2!
+strnum: 57!
+strnum: 92!
+strnum: 27!
+strnum: 89!
+strnum: 82!
+strnum: 58!
+strnum: 97!
+strnum: 36!
+strnum: 72!
+strnum: 43!
+strnum: 45!
+strnum: !
+strnum: 5!
+strnum: 99!
+strnum: 51!
+strnum: 88!
+strnum: !
+strnum: 4!
+strnum: 13!
+strnum: 39!
+strnum: 95!
+strnum: 44!
+strnum: 56!
+strnum: 31!
+strnum: 33!
+strnum: 94!
+strnum: 37!
+strnum: 57!
+strnum: 12!
+strnum: !
+strnum: 3!
+strnum: 91!
+strnum: 50!
+strnum: 74!
+strnum: !
+strnum: 6!
+strnum: 76!
+strnum: 30!
+strnum: 67!
+strnum: 85!
+strnum: 56!
+strnum: 69!
+strnum: 84!
+strnum: 74!
+strnum: 65!
+strnum: 61!
+strnum: 66!
+strnum: !
+strnum: 8!
+strnum: 43!
+strnum: 50!
+strnum: 55!
+strnum: 25!
+strnum: 97!
+strnum: 78!
+strnum: 15!
+strnum: 49!
+strnum: 73!
+strnum: 27!
+strnum: 71!
+strnum: 44!
+strnum: 93!
+strnum: 23!
+strnum: 64!
+strnum: 83!
+strnum: 38!
+strnum: 97!
+strnum: 85!
+strnum: 76!
+strnum: 55!
+strnum: 90!
+strnum: 46!
+strnum: 34!
+strnum: 12!
+strnum: !
+strnum: 1!
+strnum: 52!
+strnum: 18!
+strnum: 59!
+strnum: 48!
+strnum: 62!
+strnum: 63!
+strnum: 30!
+strnum: 82!
+strnum: 92!
+strnum: 68!
+strnum: 95!
+strnum: !
+strnum: 0!
+strnum: 72!
+strnum: 84!
+strnum: 40!
+strnum: 10!
+strnum: 62!
+strnum: 77!
+strnum: 75!
+strnum: 93!
+strnum: 94!
+strnum: 32!
+strnum: 27!
+strnum: 60!
+strnum: 26!
+strnum: 12!
+strnum: 14!
+strnum: 35!
+strnum: 57!
+strnum: 88!
+strnum: 53!
+strnum: 97!
+strnum: 95!
+strnum: 24!
+strnum: 66!
+strnum: 46!
+strnum: 33!
+strnum: !
+strnum: 3!
+strnum: 63!
+strnum: 25!
+strnum: 44!
+strnum: 90!
+strnum: 34!
+strnum: 17!
+strnum: 91!
+strnum: 93!
+strnum: 42!
+strnum: 37!
+strnum: 86!
+strnum: 95!
+strnum: 41!
+strnum: 82!
+strnum: 92!
+strnum: 31!
+strnum: 65!
+strnum: 35!
+strnum: 52!
+strnum: 40!
+strnum: 84!
+strnum: 85!
+strnum: 57!
+strnum: 71!
+strnum: 19!
+strnum: 29!
+strnum: 77!
+strnum: 38!
+strnum: 15!
+strnum: 12!
+strnum: !
+strnum: 9!
+strnum: 65!
+strnum: 78!
+strnum: 39!
+strnum: 81!
+strnum: 33!
+strnum: 35!
+strnum: 64!
+strnum: 96!
+strnum: 76!
+strnum: 71!
+strnum: 68!
+strnum: 93!
+strnum: 79!
+strnum: 22!
+strnum: 40!
+strnum: 88!
+strnum: 87!
+strnum: 27!
+strnum: !
+strnum: 7!
+strnum: 29!
+strnum: 10!
+strnum: 81!
+strnum: !
+strnum: 7!
+strnum: 92!
+strnum: 64!
+strnum: 60!
+strnum: 25!
+strnum: 11!
+strnum: !
+strnum: 6!
+strnum: 87!
+strnum: 34!
+strnum: 49!
+strnum: 20!
+strnum: 13!
+strnum: !
+strnum: 0!
+strnum: 48!
+strnum: 38!
+strnum: 14!
+strnum: 61!
+strnum: 75!
+strnum: 71!
+strnum: 86!
+strnum: 39!
+strnum: 37!
+strnum: 22!
+strnum: 63!
+strnum: 67!
+strnum: 82!
+strnum: 98!
+strnum: 18!
+strnum: 11!
+strnum: 95!
+strnum: !
+strnum: 4!
+strnum: 55!
+strnum: 44!
+strnum: 42!
+strnum: 10!
+strnum: 84!
+strnum: 73!
+strnum: 19!
+strnum: 17!
+strnum: 57!
+strnum: 53!
+strnum: 61!
+strnum: 49!
+strnum: !
+strnum: 7!
+strnum: 32!
+strnum: 24!
+strnum: 75!
+strnum: 58!
+strnum: 50!
+strnum: 90!
+strnum: !
+strnum: 1!
+strnum: 98!
+strnum: 41!
+strnum: 77!
+strnum: !
+strnum: 4!
+strnum: 87!
+strnum: 69!
+strnum: 19!
+strnum: 48!
+strnum: 44!
+strnum: 68!
+strnum: 10!
+strnum: 17!
+strnum: 96!
+strnum: 66!
+strnum: 71!
+strnum: 61!
+strnum: 45!
+strnum: 18!
+strnum: 86!
+strnum: 26!
+strnum: 73!
+strnum: 16!
+strnum: !
+strnum: 5!
+strnum: 58!
+strnum: 68!
+strnum: 34!
+strnum: 85!
+strnum: 44!
+strnum: 89!
+strnum: 72!
+strnum: 21!
+strnum: 27!
+strnum: !
+strnum: 0!
+strnum: 50!
+strnum: 39!
+strnum: 94!
+strnum: 82!
+strnum: 23!
+strnum: 13!
+strnum: 41!
+strnum: 81!
+strnum: !
+strnum: 6!
+strnum: 83!
+strnum: 60!
+strnum: 61!
+strnum: 22!
+strnum: 40!
+strnum: 59!
+strnum: 41!
+strnum: 63!
+strnum: 92!
+strnum: 69!
+strnum: 10!
+strnum: 58!
+strnum: 29!
+strnum: 60!
+strnum: !
+strnum: 4!
+strnum: 76!
+strnum: 15!
+strnum: 46!
+strnum: 34!
+strnum: 85!
+strnum: 13!
+strnum: 17!
+strnum: 88!
+strnum: 86!
+strnum: 24!
+strnum: 62!
+strnum: 73!
+strnum: 19!
+strnum: 67!
+strnum: 98!
+strnum: 96!
+strnum: 69!
+strnum: 70!
+strnum: 87!
+strnum: 80!
+strnum: 28!
+strnum: 27!
+strnum: 40!
+strnum: 77!
+strnum: !
+strnum: 9!
+strnum: 23!
+strnum: 52!
+strnum: 99!
+strnum: !
+strnum: 3!
+strnum: 60!
+strnum: 81!
+strnum: 53!
+strnum: 26!
+strnum: 45!
+strnum: 35!
+strnum: 82!
+strnum: 33!
+strnum: 71!
+strnum: 43!
+strnum: 67!
+strnum: 30!
+strnum: !
+strnum: 8!
+strnum: 41!
+strnum: 71!
+strnum: 26!
+strnum: 97!
+strnum: 96!
+strnum: !
+strnum: 0!
+strnum: 45!
+strnum: 11!
+strnum: 61!
+strnum: 12!
+strnum: 91!
+strnum: !
+strnum: 7!
+strnum: 50!
+strnum: 22!
+strnum: 40!
+strnum: 74!
+strnum: 55!
+strnum: 29!
+strnum: 53!
+strnum: 78!
+strnum: 43!
+strnum: 15!
+strnum: !
+strnum: 5!
+strnum: 93!
+strnum: 25!
+strnum: 12!
+strnum: 62!
+strnum: 84!
+strnum: 95!
+strnum: 31!
+strnum: 87!
+strnum: 83!
+strnum: 23!
+strnum: 29!
+strnum: 41!
+strnum: !
+strnum: 6!
+strnum: 55!
+strnum: 17!
+strnum: 33!
+strnum: 85!
+strnum: 42!
+strnum: 20!
+strnum: 56!
+strnum: 57!
+strnum: !
+strnum: 1!
+strnum: 65!
+strnum: 45!
+strnum: 16!
+strnum: 76!
+strnum: 86!
+strnum: 27!
+strnum: 75!
+strnum: 96!
+strnum: 56!
+strnum: 63!
+strnum: 45!
+strnum: 25!
+strnum: 77!
+strnum: 54!
+strnum: 44!
+strnum: 64!
+strnum: 41!
+strnum: 13!
+strnum: 60!
+strnum: 46!
+strnum: 66!
+strnum: 12!
+strnum: 67!
+strnum: 84!
+strnum: 59!
+strnum: 39!
+strnum: 24!
+strnum: !
+strnum: 5!
+strnum: 79!
+strnum: 39!
+strnum: 22!
+strnum: 84!
+strnum: 66!
+strnum: 76!
+strnum: 38!
+strnum: 99!
+strnum: 21!
+strnum: 47!
+strnum: 52!
+strnum: 73!
+strnum: !
+strnum: 7!
+strnum: 45!
+strnum: 94!
+strnum: 70!
+strnum: 78!
+strnum: 24!
+strnum: 16!
+strnum: 40!
+strnum: 48!
+strnum: 57!
+strnum: !
+strnum: 9!
+strnum: 13!
+strnum: 64!
+strnum: 17!
+strnum: 80!
+strnum: 28!
+strnum: 51!
+strnum: 94!
+strnum: 52!
+strnum: 56!
+strnum: 24!
+strnum: 65!
+strnum: 82!
+strnum: 38!
+strnum: 96!
+strnum: 21!
+strnum: 70!
+strnum: 23!
+strnum: 60!
+strnum: 50!
+strnum: 40!
+strnum: 32!
+strnum: 91!
+strnum: 45!
+strnum: 77!
+strnum: 37!
+strnum: 44!
+strnum: 89!
+strnum: 18!
+strnum: !
+strnum: 3!
+strnum: 42!
+strnum: 68!
+strnum: 66!
+strnum: 22!
+strnum: 35!
+strnum: 95!
+strnum: 29!
+strnum: 65!
+strnum: !
+strnum: 8!
+strnum: 99!
+strnum: 72!
+strnum: 19!
+strnum: !
+strnum: 5!
+strnum: 44!
+strnum: 80!
+strnum: 11!
+strnum: 60!
+strnum: 76!
+strnum: 59!
+strnum: 90!
+strnum: 64!
+strnum: 57!
+strnum: 94!
+strnum: 66!
+strnum: 97!
+strnum: 62!
+strnum: 49!
+strnum: 89!
+strnum: !
+strnum: 4!
+strnum: 41!
+strnum: !
+strnum: 5!
+strnum: !
+strnum: 2!
+strnum: 23!
+strnum: 54!
+strnum: 48!
+strnum: 43!
+strnum: 45!
+strnum: 76!
+strnum: 68!
+strnum: 35!
+strnum: 14!
+strnum: !
+strnum: 1!
+strnum: 86!
+strnum: 34!
+strnum: 47!
+strnum: 26!
+strnum: 92!
+strnum: 95!
+strnum: 57!
+strnum: 36!
+strnum: 52!
+strnum: 42!
+strnum: 11!
+strnum: 49!
+strnum: 83!
+strnum: 94!
+strnum: 72!
+strnum: 26!
+strnum: 91!
+strnum: 48!
+strnum: 50!
+strnum: 88!
+strnum: 80!
+strnum: 70!
+strnum: 23!
+strnum: 81!
+strnum: 33!
+strnum: 15!
+strnum: 64!
+strnum: 90!
+strnum: !
+strnum: 2!
+strnum: 47!
+strnum: 18!
+strnum: 68!
+strnum: 11!
+strnum: 16!
+strnum: 77!
+strnum: 28!
+strnum: 29!
+strnum: 56!
+strnum: 81!
+strnum: 21!
+strnum: 63!
+strnum: !
+strnum: 2!
+strnum: 88!
+strnum: 54!
+strnum: 82!
+strnum: 40!
+strnum: 69!
+strnum: 93!
+strnum: 92!
+strnum: 55!
+strnum: 70!
+strnum: 57!
+strnum: 51!
+strnum: 25!
+strnum: 80!
+strnum: !
+strnum: 3!
+strnum: 10!
+strnum: 73!
+strnum: !
+strnum: 8!
+strnum: 27!
+strnum: 61!
+strnum: 74!
+strnum: 66!
+strnum: 47!
+strnum: 54!
+strnum: !
+strnum: 1!
+strnum: 52!
+strnum: 17!
+strnum: 76!
+strnum: !
+strnum: 5!
+strnum: 20!
+strnum: 70!
+strnum: 44!
+strnum: 92!
+strnum: 59!
+strnum: 34!
+strnum: 26!
+strnum: 16!
+strnum: 11!
+strnum: 81!
+strnum: 46!
+strnum: 10!
+strnum: 31!
+strnum: 95!
+strnum: 17!
+strnum: 44!
+strnum: 76!
+strnum: 67!
+strnum: 19!
+strnum: 69!
+strnum: 33!
+strnum: 36!
+strnum: 70!
+strnum: 25!
+strnum: 71!
+strnum: 99!
+strnum: 56!
+strnum: 42!
+strnum: 53!
+strnum: 46!
+strnum: 40!
+strnum: 90!
+strnum: 85!
+strnum: 81!
+strnum: !
+strnum: 6!
+strnum: 26!
+strnum: 17!
+strnum: 32!
+strnum: 74!
+strnum: 57!
+strnum: 64!
+strnum: 37!
+strnum: 82!
+strnum: 92!
+strnum: 54!
+strnum: 59!
+strnum: 56!
+strnum: 87!
+strnum: 41!
+strnum: 68!
+strnum: 73!
+strnum: 44!
+strnum: 98!
+strnum: 58!
+strnum: 95!
+strnum: 53!
+strnum: 47!
+strnum: 29!
+strnum: 71!
+strnum: 52!
+strnum: 31!
+strnum: 19!
+strnum: 58!
+strnum: 84!
+strnum: 14!
+strnum: 91!
+strnum: 75!
+strnum: 89!
+strnum: 18!
+strnum: 67!
+strnum: !
+strnum: 3!
+strnum: 11!
+strnum: !
+strnum: 5!
+strnum: !
+strnum: 2!
+strnum: 24!
+strnum: 37!
+strnum: 62!
+strnum: 35!
+strnum: 48!
+strnum: 56!
+strnum: 81!
+strnum: 54!
+strnum: 77!
+strnum: 16!
+strnum: 70!
+strnum: 45!
+strnum: !
+strnum: 7!
+strnum: 20!
+strnum: 41!
+strnum: 87!
+strnum: 74!
+strnum: 17!
+strnum: 47!
+strnum: 45!
+strnum: 96!
+strnum: 49!
+strnum: !
+strnum: 4!
+strnum: 33!
+strnum: 89!
+strnum: 31!
+strnum: 77!
+strnum: 79!
+strnum: 42!
+strnum: 52!
+strnum: 29!
+strnum: 85!
+strnum: 88!
+strnum: 27!
+strnum: 63!
+strnum: 11!
+strnum: 75!
+strnum: 61!
+strnum: 87!
+strnum: 90!
+strnum: 15!
+strnum: 17!
+strnum: 22!
+strnum: 82!
+strnum: 28!
+strnum: 21!
+strnum: 93!
+strnum: 65!
+strnum: 98!
+strnum: 12!
+strnum: 23!
+strnum: 24!
+strnum: 73!
+strnum: 70!
+strnum: 42!
+strnum: !
+strnum: 1!
+strnum: 94!
+strnum: 83!
+strnum: 79!
+strnum: !
+strnum: 5!
+strnum: 18!
+strnum: 55!
+strnum: 78!
+strnum: 67!
+strnum: 22!
+strnum: 88!
+strnum: 18!
+strnum: !
+strnum: 2!
+strnum: 43!
+strnum: 14!
+strnum: 56!
+strnum: 92!
+strnum: 61!
+strnum: 32!
+strnum: 87!
+strnum: 20!
+strnum: !
+strnum: 8!
+strnum: 28!
+strnum: 11!
+strnum: !
+strnum: 7!
+strnum: 12!
+strnum: 70!
+strnum: 21!
+strnum: 72!
+strnum: 36!
+strnum: 74!
+strnum: 77!
+strnum: 27!
+strnum: !
+strnum: 6!
+strnum: 97!
+strnum: 66!
+strnum: !
+strnum: 7!
+strnum: 30!
+strnum: 67!
+strnum: 12!
+strnum: 70!
+strnum: 40!
+strnum: 18!
+strnum: 61!
+strnum: 78!
+strnum: 36!
+strnum: 23!
+strnum: 44!
+strnum: 24!
+strnum: 85!
+strnum: 74!
+strnum: 82!
+strnum: 55!
+strnum: 42!
+strnum: 51!
+strnum: 90!
+strnum: 34!
+strnum: 98!
+strnum: !
+strnum: 9!
+strnum: 39!
+strnum: 42!
+strnum: 44!
+strnum: 50!
+strnum: 54!
+strnum: 43!
+strnum: 66!
+strnum: 57!
+strnum: 85!
+strnum: 58!
+strnum: 91!
+strnum: 13!
+strnum: 11!
+strnum: 67!
+strnum: !
+strnum: 5!
+strnum: 23!
+strnum: 59!
+strnum: 70!
+strnum: 45!
+strnum: 41!
+strnum: 87!
+strnum: 29!
+strnum: 20!
+strnum: 97!
+strnum: 57!
+strnum: 48!
+strnum: 42!
+strnum: 73!
+strnum: 37!
+strnum: 29!
+strnum: 50!
+strnum: 49!
+strnum: 83!
+strnum: 55!
+strnum: 38!
+strnum: 69!
+strnum: 13!
+strnum: 44!
+strnum: 52!
+strnum: 14!
+strnum: 54!
+strnum: 94!
+strnum: 56!
+strnum: 24!
+strnum: 77!
+strnum: 16!
+strnum: 39!
+strnum: 66!
+strnum: 31!
+strnum: 61!
+strnum: 44!
+strnum: 38!
+strnum: 80!
+strnum: 11!
+strnum: !
+strnum: 3!
+strnum: !
+strnum: 0!
+strnum: 56!
+strnum: !
+strnum: 8!
+strnum: 94!
+strnum: 81!
+strnum: !
+strnum: 1!
+strnum: 25!
+strnum: 19!
+strnum: 71!
+strnum: 23!
+strnum: 36!
+strnum: 66!
+strnum: 41!
+strnum: 70!
+strnum: 35!
+strnum: 77!
+strnum: 79!
+strnum: 46!
+strnum: 17!
+strnum: 96!
+strnum: 13!
+strnum: 25!
+strnum: 48!
+strnum: 65!
+strnum: 28!
+strnum: 41!
+strnum: 24!
+strnum: 81!
+strnum: 39!
+strnum: 87!
+strnum: 74!
+strnum: 42!
+strnum: !
+strnum: 5!
+strnum: 36!
+strnum: 35!
+strnum: 21!
+strnum: 60!
+strnum: 40!
+strnum: !
+strnum: 3!
+strnum: 83!
+strnum: 11!
+strnum: !
+strnum: 1!
+strnum: 34!
+strnum: 50!
+strnum: 52!
+strnum: 84!
+strnum: 38!
+strnum: 57!
+strnum: 15!
+strnum: 20!
+strnum: 26!
+strnum: !
+strnum: 3!
+strnum: 72!
+strnum: 48!
+strnum: 85!
+strnum: !
+strnum: 4!
+strnum: 88!
+strnum: 63!
+strnum: 39!
+strnum: 34!
+strnum: 32!
+strnum: 42!
+strnum: !
+strnum: 7!
+strnum: 86!
+strnum: 77!
+strnum: 71!
+strnum: 94!
+strnum: 23!
+strnum: 28!
+strnum: 60!
+strnum: 13!
+strnum: 25!
+strnum: !
+strnum: 0!
+strnum: 22!
+strnum: 74!
+strnum: 20!
+strnum: 75!
+strnum: 30!
+strnum: 97!
+strnum: !
+strnum: 5!
+strnum: 21!
+strnum: !
+strnum: 2!
+strnum: 73!
+strnum: !
+strnum: 7!
+strnum: 44!
+strnum: 14!
+strnum: 77!
+strnum: 16!
+strnum: 43!
+strnum: 68!
+strnum: 76!
+strnum: 24!
+strnum: !
+strnum: 1!
+strnum: 99!
+strnum: 85!
+strnum: !
+strnum: 4!
+strnum: 62!
+strnum: 67!
+strnum: 46!
+strnum: 86!
+strnum: 43!
+strnum: 45!
+strnum: 77!
+strnum: 42!
+strnum: 21!
+strnum: 81!
+strnum: 47!
+strnum: 57!
+strnum: 71!
+strnum: 35!
+strnum: 23!
+strnum: 10!
+strnum: 29!
+strnum: 58!
+strnum: 60!
+strnum: 79!
+strnum: 61!
+strnum: 48!
+strnum: 33!
+strnum: 10!
+strnum: !
+strnum: 7!
+strnum: 61!
+strnum: 17!
+strnum: 97!
+strnum: 91!
+strnum: 70!
+strnum: 75!
+strnum: 48!
+strnum: 81!
+strnum: 80!
+strnum: 78!
+strnum: 34!
+strnum: 36!
+strnum: 26!
+strnum: 55!
+strnum: 73!
+strnum: 77!
+strnum: 14!
+strnum: 85!
+strnum: 84!
+strnum: 62!
+strnum: !
+strnum: 9!
+strnum: 16!
+strnum: 17!
+strnum: 41!
+strnum: !
+strnum: 3!
+strnum: 82!
+strnum: 86!
+strnum: 58!
+strnum: !
+strnum: 0!
+strnum: 51!
+strnum: 79!
+strnum: 29!
+strnum: 60!
+strnum: 70!
+strnum: 61!
+strnum: 95!
+strnum: 46!
+strnum: 98!
+strnum: 85!
+strnum: !
+strnum: 1!
+strnum: 72!
+strnum: 93!
+strnum: !
+strnum: 4!
+strnum: 42!
+strnum: 89!
+strnum: 88!
+strnum: 84!
+strnum: 95!
+strnum: 16!
+strnum: 26!
+strnum: 32!
+strnum: 29!
+strnum: 27!
+strnum: 37!
+strnum: 51!
+strnum: 23!
+strnum: 55!
+strnum: 36!
+strnum: 10!
+strnum: 50!
+strnum: 70!
+strnum: 57!
+strnum: 60!
+strnum: 79!
+strnum: 96!
+strnum: 40!
+strnum: !
+strnum: 9!
+strnum: !
+strnum: 3!
+strnum: 43!
+strnum: 74!
+strnum: 94!
+strnum: 31!
+strnum: 15!
+strnum: 56!
+strnum: 51!
+strnum: 72!
+strnum: 62!
+strnum: !
+strnum: 8!
+strnum: 63!
+strnum: 23!
+strnum: 90!
+strnum: 67!
+strnum: 93!
+strnum: 85!
+strnum: 28!
+strnum: 70!
+strnum: 82!
+strnum: 33!
+strnum: 65!
+strnum: 89!
+strnum: !
+strnum: 4!
+strnum: 64!
+strnum: 19!
+strnum: 58!
+strnum: 37!
+strnum: 88!
+strnum: 75!
+strnum: 34!
+strnum: 71!
+strnum: 60!
+strnum: 84!
+strnum: 85!
+strnum: 64!
+strnum: 87!
+strnum: 92!
+strnum: 67!
+strnum: !
+strnum: 8!
+strnum: 42!
+strnum: 58!
+strnum: !
+strnum: 4!
+strnum: !
+strnum: 9!
+strnum: 75!
+strnum: 49!
+strnum: 95!
+strnum: 26!
+strnum: 91!
+strnum: 12!
+strnum: 27!
+strnum: 56!
+strnum: 74!
+strnum: 90!
+strnum: 20!
+strnum: 13!
+strnum: 46!
+strnum: 27!
+strnum: 12!
+strnum: 97!
+strnum: 90!
+strnum: 25!
+strnum: 87!
+strnum: 73!
+strnum: 41!
+strnum: 50!
+strnum: 66!
+strnum: 34!
+strnum: 15!
+strnum: 94!
+strnum: 45!
+strnum: 99!
+strnum: 88!
+strnum: 86!
+strnum: 21!
+strnum: 56!
+strnum: 37!
+strnum: 62!
+strnum: 44!
+strnum: 29!
+strnum: 77!
+strnum: 31!
+strnum: 59!
+strnum: 94!
+strnum: 74!
+strnum: 19!
+strnum: 15!
+strnum: 11!
+strnum: 23!
+strnum: 68!
+strnum: !
+strnum: 0!
+strnum: 36!
+strnum: !
+strnum: 2!
+strnum: 98!
+strnum: 30!
+strnum: 44!
+strnum: 49!
+strnum: 90!
+strnum: 83!
+strnum: !
+strnum: 9!
+strnum: 13!
+strnum: 88!
+strnum: 69!
+strnum: 66!
+strnum: 81!
+strnum: 31!
+strnum: 71!
+strnum: 58!
+strnum: 11!
+strnum: 47!
+strnum: 42!
+strnum: 41!
+strnum: 10!
+strnum: 83!
+strnum: 21!
+strnum: 38!
+strnum: !
+strnum: 9!
+strnum: 51!
+strnum: 17!
+strnum: 64!
+strnum: 37!
+strnum: 13!
+strnum: 93!
+strnum: 81!
+strnum: 39!
+strnum: 33!
+strnum: 22!
+strnum: 98!
+strnum: 26!
+strnum: 43!
+strnum: 60!
+strnum: 89!
+strnum: 20!
+strnum: 94!
+strnum: !
+strnum: 2!
+strnum: 45!
+strnum: 34!
+strnum: 93!
+strnum: 15!
+strnum: 30!
+strnum: !
+strnum: 4!
+strnum: 16!
+strnum: 49!
+strnum: 92!
+strnum: 28!
+strnum: 67!
+strnum: 75!
+strnum: 27!
+strnum: 61!
+strnum: 70!
+strnum: 25!
+strnum: 84!
+strnum: 55!
+strnum: 91!
+strnum: 88!
+strnum: 85!
+strnum: 22!
+strnum: 41!
+strnum: 43!
+strnum: !
+strnum: 0!
+strnum: 21!
+strnum: 77!
+strnum: 12!
+strnum: 64!
+strnum: 34!
+strnum: 30!
+strnum: 39!
+strnum: 97!
+strnum: 36!
+strnum: 72!
+strnum: 56!
+strnum: !
+strnum: 8!
+strnum: 65!
+strnum: 82!
+strnum: 84!
+strnum: 76!
+strnum: !
+strnum: 3!
+strnum: !
+strnum: 4!
+strnum: 17!
+strnum: 49!
+strnum: 16!
+strnum: 61!
+strnum: 63!
+strnum: 41!
+strnum: 47!
+strnum: 48!
+strnum: 46!
+strnum: 37!
+strnum: 70!
+strnum: 87!
+strnum: 57!
+strnum: 31!
+strnum: 36!
+strnum: 83!
+strnum: !
+strnum: 1!
+strnum: 71!
+strnum: !
+strnum: 3!
+strnum: 93!
+strnum: 24!
+strnum: 80!
+strnum: 51!
+strnum: 78!
+strnum: 91!
+strnum: 17!
+strnum: 86!
+strnum: 87!
+strnum: 72!
+strnum: 70!
+strnum: 97!
+strnum: 58!
+strnum: 54!
+strnum: 16!
+strnum: !
+strnum: 1!
+strnum: 43!
+strnum: 46!
+strnum: 49!
+strnum: 28!
+strnum: 59!
+strnum: 38!
+strnum: 51!
+strnum: 24!
+strnum: 15!
+strnum: 10!
+strnum: 84!
+strnum: 94!
+strnum: 76!
+strnum: 86!
+strnum: 55!
+strnum: 83!
+strnum: 26!
+strnum: 93!
+strnum: 10!
+strnum: !
+strnum: 5!
+strnum: !
+strnum: 1!
+strnum: 92!
+strnum: 99!
+strnum: !
+strnum: 6!
+strnum: 45!
+strnum: 79!
+strnum: 76!
+strnum: 74!
+strnum: 87!
+strnum: 47!
+strnum: 25!
+strnum: 24!
+strnum: 50!
+strnum: 43!
+strnum: !
+strnum: 4!
+strnum: 21!
+strnum: 67!
+strnum: 81!
+strnum: 39!
+strnum: 49!
+strnum: 12!
+strnum: 86!
+strnum: 49!
+strnum: 35!
+strnum: 22!
+strnum: 27!
+strnum: 37!
+strnum: 90!
+strnum: 80!
+strnum: 68!
+strnum: 52!
+strnum: 59!
+strnum: 78!
+strnum: 53!
+strnum: 23!
+strnum: 65!
+strnum: 46!
+strnum: 30!
+strnum: 61!
+strnum: 75!
+strnum: 97!
+strnum: 31!
+strnum: !
+strnum: 1!
+strnum: 76!
+strnum: 66!
+strnum: 26!
+strnum: 48!
+strnum: 37!
+strnum: 11!
+strnum: 88!
+strnum: 20!
+strnum: 99!
+strnum: 45!
+strnum: 96!
+strnum: 95!
+strnum: 81!
+strnum: 39!
+strnum: 60!
+strnum: 55!
+strnum: 80!
+strnum: 58!
+strnum: 53!
+strnum: !
+strnum: 6!
+strnum: 23!
+strnum: !
+strnum: 8!
+strnum: !
+strnum: 1!
+strnum: 46!
+strnum: 98!
+strnum: 89!
+strnum: 16!
+strnum: 73!
+strnum: 78!
+strnum: !
+strnum: 0!
+strnum: 58!
+strnum: 88!
+strnum: 69!
+strnum: 66!
+strnum: 82!
+strnum: !
+strnum: 9!
+strnum: 31!
+strnum: 97!
+strnum: 55!
+strnum: 22!
+strnum: 37!
+strnum: 90!
+strnum: 79!
+strnum: 14!
+strnum: 44!
+strnum: 45!
+strnum: 49!
+strnum: 43!
+strnum: 60!
+strnum: 93!
+strnum: 62!
+strnum: 36!
+strnum: 57!
+strnum: 30!
+strnum: !
+strnum: 1!
+strnum: 34!
+strnum: 89!
+strnum: 90!
+strnum: 46!
+strnum: 81!
+strnum: 26!
+strnum: !
+strnum: 5!
+strnum: !
+strnum: 6!
+strnum: 14!
+strnum: 75!
+strnum: 74!
+strnum: 62!
+strnum: 55!
+strnum: 37!
+strnum: 96!
+strnum: 58!
+strnum: 78!
+strnum: 93!
+strnum: 73!
+strnum: 35!
+strnum: 40!
+strnum: 13!
+strnum: 95!
+strnum: 45!
+strnum: 22!
+strnum: 57!
+strnum: 46!
+strnum: 99!
+strnum: 42!
+strnum: 65!
+strnum: 39!
+strnum: 38!
+strnum: !
+strnum: 7!
+strnum: 81!
+strnum: !
+strnum: 4!
+strnum: !
+strnum: 1!
+strnum: 76!
+strnum: 59!
+strnum: !
+strnum: 8!
+strnum: 84!
+strnum: 60!
+strnum: 37!
+strnum: 55!
+strnum: 40!
+strnum: 49!
+strnum: 31!
+strnum: !
+strnum: 5!
+strnum: 80!
+strnum: 30!
+strnum: 29!
+strnum: !
+strnum: 4!
+strnum: 96!
+strnum: 50!
+strnum: 24!
+strnum: 61!
+strnum: 77!
+strnum: 70!
+strnum: 88!
+strnum: 93!
+strnum: 12!
+strnum: 64!
+strnum: 52!
+strnum: 25!
+strnum: 90!
+strnum: 67!
+strnum: 34!
+strnum: 59!
+strnum: 95!
+strnum: 16!
+strnum: 79!
+strnum: 21!
+strnum: 82!
+strnum: !
+strnum: 6!
+strnum: 63!
+strnum: 26!
+strnum: 41!
+strnum: 52!
+strnum: 91!
+strnum: 57!
+strnum: 92!
+strnum: 95!
+strnum: 33!
+strnum: !
+strnum: 1!
+strnum: 62!
+strnum: 45!
+strnum: 31!
+strnum: 87!
+strnum: 29!
+strnum: 59!
+strnum: 44!
+strnum: 86!
+strnum: 99!
+strnum: 81!
+strnum: !
+strnum: 5!
+strnum: 36!
+strnum: 20!
+strnum: 58!
+strnum: 73!
+strnum: 30!
+strnum: 55!
+strnum: 96!
+strnum: 28!
+strnum: 26!
+strnum: 17!
+strnum: 62!
+strnum: 51!
+strnum: 64!
+strnum: 43!
+strnum: 49!
+strnum: 37!
+strnum: 41!
+strnum: 36!
+strnum: 75!
+strnum: 42!
+strnum: 11!
+strnum: 94!
+strnum: 87!
+strnum: 27!
+strnum: 63!
+strnum: 35!
+strnum: 23!
+strnum: 21!
+strnum: 29!
+strnum: !
+strnum: 4!
+strnum: 99!
+strnum: 54!
+strnum: 74!
+strnum: 83!
+strnum: 92!
+strnum: 27!
+strnum: 53!
+strnum: 15!
+strnum: !
+strnum: 8!
+strnum: 85!
+strnum: 94!
+strnum: 36!
+strnum: 63!
+strnum: 29!
+strnum: 91!
+strnum: 58!
+strnum: 10!
+strnum: 45!
+strnum: 38!
+strnum: 79!
+strnum: !
+strnum: 9!
+strnum: 95!
+strnum: 23!
+strnum: 98!
+strnum: 33!
+strnum: 52!
+strnum: 14!
+strnum: 99!
+strnum: 30!
+strnum: 50!
+strnum: 29!
+strnum: 81!
+strnum: 41!
+strnum: 28!
+strnum: 15!
+strnum: 43!
+strnum: 51!
+strnum: 61!
+strnum: 56!
+strnum: 62!
+strnum: 68!
+strnum: 67!
+strnum: 93!
+strnum: 45!
+strnum: 13!
+strnum: 23!
+strnum: !
+strnum: 6!
+strnum: 70!
+strnum: !
+strnum: 8!
+strnum: !
+strnum: 7!
+strnum: 73!
+strnum: 78!
+strnum: 47!
+strnum: !
+strnum: 2!
+strnum: !
+strnum: 7!
+strnum: 45!
+strnum: 16!
+strnum: 46!
+strnum: 65!
+strnum: 21!
+strnum: 60!
+strnum: 54!
+strnum: 43!
+strnum: 12!
+strnum: !
+strnum: 1!
+strnum: 20!
+strnum: 23!
+strnum: 42!
+strnum: 56!
+strnum: 81!
+strnum: 89!
+strnum: 80!
+strnum: 52!
+strnum: 26!
+strnum: 32!
+strnum: 79!
+strnum: !
+strnum: 5!
+strnum: 10!
+strnum: 11!
+strnum: !
+strnum: 7!
+strnum: 87!
+strnum: 36!
+strnum: !
+strnum: 2!
+strnum: 70!
+strnum: 16!
+strnum: 99!
+strnum: 44!
+strnum: 49!
+strnum: 43!
+strnum: 19!
+strnum: 46!
+strnum: 25!
+strnum: !
+strnum: 1!
+strnum: 18!
+strnum: 78!
+strnum: 55!
+strnum: 76!
+strnum: !
+strnum: 3!
+strnum: 73!
+strnum: 15!
+strnum: 18!
+strnum: 49!
+strnum: 71!
+strnum: 59!
+strnum: 90!
+strnum: 97!
+strnum: 37!
+strnum: 23!
+strnum: 68!
+strnum: 62!
+strnum: 48!
+strnum: !
+strnum: 8!
+strnum: 14!
+strnum: 81!
+strnum: 26!
+strnum: 88!
+strnum: !
+strnum: 4!
+strnum: 22!
+strnum: 76!
+strnum: 12!
+strnum: 60!
+strnum: 99!
+strnum: 64!
+strnum: 17!
+strnum: 46!
+strnum: 99!
+strnum: 25!
+strnum: 79!
+strnum: 42!
+strnum: 33!
+strnum: !
+strnum: 5!
+strnum: 28!
+strnum: 38!
+strnum: 15!
+strnum: 11!
+strnum: !
+strnum: 8!
+strnum: 78!
+strnum: 51!
+strnum: 40!
+strnum: 65!
+strnum: 47!
+strnum: !
+strnum: 0!
+strnum: 12!
+strnum: 48!
+strnum: 67!
+strnum: 14!
+strnum: 98!
+strnum: 53!
+strnum: 43!
+strnum: 86!
+strnum: 74!
+strnum: 46!
+strnum: 42!
+strnum: 86!
+strnum: 44!
+strnum: 83!
+strnum: 96!
+strnum: 61!
+strnum: 38!
+strnum: 70!
+strnum: 97!
+strnum: !
+strnum: 7!
+strnum: 49!
+strnum: !
+strnum: 9!
+strnum: 22!
+strnum: 65!
+strnum: 34!
+strnum: 66!
+strnum: 90!
+strnum: 51!
+strnum: !
+strnum: 0!
+strnum: 36!
+strnum: 13!
+strnum: 85!
+strnum: 53!
+strnum: 43!
+strnum: 21!
+strnum: 64!
+strnum: 86!
+strnum: 20!
+strnum: !
+strnum: 8!
+strnum: 55!
+strnum: 85!
+strnum: 48!
+strnum: 15!
+strnum: 58!
+strnum: 49!
+strnum: 87!
+strnum: 29!
+strnum: 35!
+strnum: 74!
+strnum: !
+strnum: 4!
+strnum: 37!
+strnum: 12!
+strnum: 99!
+strnum: 98!
+strnum: 69!
+strnum: 75!
+strnum: 39!
+strnum: 71!
+strnum: 58!
+strnum: 65!
+strnum: 63!
+strnum: 41!
+strnum: 87!
+strnum: 19!
+strnum: 49!
+strnum: 91!
+strnum: 34!
+strnum: 37!
+strnum: 95!
+strnum: 10!
+strnum: 55!
+strnum: 94!
+strnum: 82!
+strnum: 78!
+strnum: 71!
+strnum: 66!
+strnum: 60!
+strnum: 96!
+strnum: 27!
+strnum: 11!
+strnum: 29!
+strnum: 48!
+strnum: 72!
+strnum: !
+strnum: 9!
+strnum: 78!
+strnum: 51!
+strnum: 18!
+strnum: 93!
+strnum: 71!
+strnum: 55!
+strnum: !
+strnum: 0!
+strnum: !
+strnum: 5!
+strnum: 37!
+strnum: 24!
+strnum: 98!
+strnum: !
+strnum: 2!
+strnum: 70!
+strnum: 92!
+strnum: 85!
+strnum: 15!
+strnum: 46!
+strnum: 91!
+strnum: 99!
+strnum: 60!
+strnum: 68!
+strnum: 41!
+strnum: 86!
+strnum: 96!
+67 31 58 8 79 18 19 45 38 13 40 62 85 10 21 96 56 55 4 36 76 42 32 34 39 89 6 12 24 57 93 47 41 52 83 61 5 37 28 15 86 23 69 92 70 27 25 53 44 80 65 22 99 43 66 26 11 72 2 98 14 82 87 20 73 46 35 7 1 84 95 74 81 63 78 94 16 60 29 97 91 30 17 54 68 90 71 88 77 9 64 50 0 49 48 75 3 59 51 33 
+Doing shit: 
+Recursion 0; Table 94
+18,0 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,0 
+48,0 8,0 14,0 81,0 26,0 
+88,0 4,0 22,0 76,0 12,0 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 1; Table 94
+18,0 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,0 
+48,0 8,0 14,0 81,0 26,0 
+88,0 4,0 22,0 76,0 12,0 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 2; Table 94
+18,0 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,0 
+48,0 8,0 14,0 81,0 26,0 
+88,0 4,0 22,0 76,0 12,0 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 3; Table 94
+18,0 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,0 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,0 22,0 76,0 12,0 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 4; Table 94
+18,0 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,0 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,0 22,0 76,0 12,0 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 5; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,0 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,0 22,0 76,0 12,0 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 6; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,0 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,0 22,0 76,0 12,0 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 7; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,0 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,0 22,0 76,0 12,0 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 8; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,0 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,0 22,0 76,0 12,0 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 9; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,0 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,0 22,0 76,0 12,0 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 10; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,0 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,0 22,0 76,0 12,0 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 11; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,0 22,0 76,0 12,0 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 12; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,0 22,0 76,0 12,0 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 13; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,0 22,0 76,0 12,0 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 14; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,0 22,0 76,0 12,0 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 15; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,0 22,0 76,0 12,0 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 16; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,0 22,0 76,0 12,0 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 17; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,0 22,0 76,0 12,0 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 18; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,0 12,0 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 19; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,0 12,0 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 20; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,1 12,0 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 21; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,1 12,0 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 22; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,1 12,0 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 23; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,1 12,0 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 24; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,1 12,0 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 25; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,1 12,0 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 26; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,1 12,0 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 27; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,1 12,1 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 28; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,1 12,1 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 29; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,1 12,1 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 30; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,1 12,1 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 31; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,1 12,1 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 32; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,1 12,1 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 33; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,1 12,1 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 34; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,1 12,1 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 35; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,1 12,1 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 36; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,0 23,0 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,1 12,1 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 37; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,0 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,1 12,1 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 38; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,0 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,1 12,1 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 39; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,0 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,1 12,1 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 40; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,0 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,1 12,1 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 41; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,1 12,1 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 42; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,1 12,1 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 43; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,1 12,1 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 44; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,1 12,1 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 45; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,1 12,1 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 46; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,1 12,1 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 47; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,1 12,1 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 48; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,1 12,1 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 49; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,1 12,1 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 50; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,0 76,1 12,1 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 51; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,1 76,1 12,1 
+60,0 99,0 64,0 17,0 46,0 
+
+
+Recursion 52; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,1 76,1 12,1 
+60,0 99,1 64,0 17,0 46,0 
+
+
+Recursion 53; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,1 76,1 12,1 
+60,0 99,1 64,0 17,0 46,0 
+
+
+Recursion 54; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,0 81,0 26,0 
+88,0 4,1 22,1 76,1 12,1 
+60,0 99,1 64,0 17,0 46,0 
+
+
+Recursion 55; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,0 81,0 26,1 
+88,0 4,1 22,1 76,1 12,1 
+60,0 99,1 64,0 17,0 46,0 
+
+
+Recursion 56; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,0 81,0 26,1 
+88,0 4,1 22,1 76,1 12,1 
+60,0 99,1 64,0 17,0 46,0 
+
+
+Recursion 57; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,0 81,0 26,1 
+88,0 4,1 22,1 76,1 12,1 
+60,0 99,1 64,0 17,0 46,0 
+
+
+Recursion 58; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,0 81,0 26,1 
+88,0 4,1 22,1 76,1 12,1 
+60,0 99,1 64,0 17,0 46,0 
+
+
+Recursion 59; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,0 81,0 26,1 
+88,0 4,1 22,1 76,1 12,1 
+60,0 99,1 64,0 17,0 46,0 
+
+
+Recursion 60; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,1 81,0 26,1 
+88,0 4,1 22,1 76,1 12,1 
+60,0 99,1 64,0 17,0 46,0 
+
+
+Recursion 61; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,1 81,0 26,1 
+88,0 4,1 22,1 76,1 12,1 
+60,0 99,1 64,0 17,0 46,0 
+
+
+Recursion 62; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,1 81,0 26,1 
+88,0 4,1 22,1 76,1 12,1 
+60,0 99,1 64,0 17,0 46,0 
+
+
+Recursion 63; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,1 81,0 26,1 
+88,0 4,1 22,1 76,1 12,1 
+60,0 99,1 64,0 17,0 46,0 
+
+
+Recursion 64; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,1 81,0 26,1 
+88,0 4,1 22,1 76,1 12,1 
+60,0 99,1 64,0 17,0 46,0 
+
+
+Recursion 65; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,1 81,0 26,1 
+88,0 4,1 22,1 76,1 12,1 
+60,0 99,1 64,0 17,0 46,1 
+
+
+Recursion 66; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,1 81,0 26,1 
+88,0 4,1 22,1 76,1 12,1 
+60,0 99,1 64,0 17,0 46,1 
+
+
+Recursion 67; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,1 81,0 26,1 
+88,0 4,1 22,1 76,1 12,1 
+60,0 99,1 64,0 17,0 46,1 
+
+
+Recursion 68; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,1 81,0 26,1 
+88,0 4,1 22,1 76,1 12,1 
+60,0 99,1 64,0 17,0 46,1 
+
+
+Recursion 69; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,1 81,0 26,1 
+88,0 4,1 22,1 76,1 12,1 
+60,0 99,1 64,0 17,0 46,1 
+
+
+Recursion 70; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,1 81,0 26,1 
+88,0 4,1 22,1 76,1 12,1 
+60,0 99,1 64,0 17,0 46,1 
+
+
+Recursion 71; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,1 81,0 26,1 
+88,0 4,1 22,1 76,1 12,1 
+60,0 99,1 64,0 17,0 46,1 
+
+
+Recursion 72; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,1 81,1 26,1 
+88,0 4,1 22,1 76,1 12,1 
+60,0 99,1 64,0 17,0 46,1 
+
+
+Recursion 73; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,1 81,1 26,1 
+88,0 4,1 22,1 76,1 12,1 
+60,0 99,1 64,0 17,0 46,1 
+
+
+Recursion 74; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,1 81,1 26,1 
+88,0 4,1 22,1 76,1 12,1 
+60,0 99,1 64,0 17,0 46,1 
+
+
+Recursion 75; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,1 81,1 26,1 
+88,0 4,1 22,1 76,1 12,1 
+60,0 99,1 64,0 17,0 46,1 
+
+
+Recursion 76; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,1 81,1 26,1 
+88,0 4,1 22,1 76,1 12,1 
+60,0 99,1 64,0 17,0 46,1 
+
+
+Recursion 77; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,1 81,1 26,1 
+88,0 4,1 22,1 76,1 12,1 
+60,1 99,1 64,0 17,0 46,1 
+
+
+Recursion 78; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,0 37,1 23,1 68,0 62,1 
+48,0 8,1 14,1 81,1 26,1 
+88,0 4,1 22,1 76,1 12,1 
+60,1 99,1 64,0 17,0 46,1 
+
+
+Recursion 79; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,1 37,1 23,1 68,0 62,1 
+48,0 8,1 14,1 81,1 26,1 
+88,0 4,1 22,1 76,1 12,1 
+60,1 99,1 64,0 17,0 46,1 
+
+
+Recursion 80; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,1 37,1 23,1 68,0 62,1 
+48,0 8,1 14,1 81,1 26,1 
+88,0 4,1 22,1 76,1 12,1 
+60,1 99,1 64,0 17,0 46,1 
+
+
+Recursion 81; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,1 37,1 23,1 68,0 62,1 
+48,0 8,1 14,1 81,1 26,1 
+88,0 4,1 22,1 76,1 12,1 
+60,1 99,1 64,0 17,0 46,1 
+
+
+Recursion 82; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,1 37,1 23,1 68,0 62,1 
+48,0 8,1 14,1 81,1 26,1 
+88,0 4,1 22,1 76,1 12,1 
+60,1 99,1 64,0 17,1 46,1 
+
+
+Recursion 83; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,1 37,1 23,1 68,0 62,1 
+48,0 8,1 14,1 81,1 26,1 
+88,0 4,1 22,1 76,1 12,1 
+60,1 99,1 64,0 17,1 46,1 
+
+
+Recursion 84; Table 94
+18,1 49,0 71,0 59,0 90,0 
+97,1 37,1 23,1 68,1 62,1 
+48,0 8,1 14,1 81,1 26,1 
+88,0 4,1 22,1 76,1 12,1 
+60,1 99,1 64,0 17,1 46,1 
+
+
+Recursion 85; Table 94
+18,1 49,0 71,0 59,0 90,1 
+97,1 37,1 23,1 68,1 62,1 
+48,0 8,1 14,1 81,1 26,1 
+88,0 4,1 22,1 76,1 12,1 
+60,1 99,1 64,0 17,1 46,1 
+
+
+Recursion 86; Table 94
+18,1 49,0 71,1 59,0 90,1 
+97,1 37,1 23,1 68,1 62,1 
+48,0 8,1 14,1 81,1 26,1 
+88,0 4,1 22,1 76,1 12,1 
+60,1 99,1 64,0 17,1 46,1 
+
+
+Recursion 87; Table 94
+18,1 49,0 71,1 59,0 90,1 
+97,1 37,1 23,1 68,1 62,1 
+48,0 8,1 14,1 81,1 26,1 
+88,1 4,1 22,1 76,1 12,1 
+60,1 99,1 64,0 17,1 46,1 
+
+
+Recursion 88; Table 94
+18,1 49,0 71,1 59,0 90,1 
+97,1 37,1 23,1 68,1 62,1 
+48,0 8,1 14,1 81,1 26,1 
+88,1 4,1 22,1 76,1 12,1 
+60,1 99,1 64,0 17,1 46,1 
+
+
+Recursion 89; Table 94
+18,1 49,0 71,1 59,0 90,1 
+97,1 37,1 23,1 68,1 62,1 
+48,0 8,1 14,1 81,1 26,1 
+88,1 4,1 22,1 76,1 12,1 
+60,1 99,1 64,0 17,1 46,1 
+
+
+Recursion 90; Table 94
+18,1 49,0 71,1 59,0 90,1 
+97,1 37,1 23,1 68,1 62,1 
+48,0 8,1 14,1 81,1 26,1 
+88,1 4,1 22,1 76,1 12,1 
+60,1 99,1 64,1 17,1 46,1 
+
+
+Recursion 91; Table 94
+18,1 49,0 71,1 59,0 90,1 
+97,1 37,1 23,1 68,1 62,1 
+48,0 8,1 14,1 81,1 26,1 
+88,1 4,1 22,1 76,1 12,1 
+60,1 99,1 64,1 17,1 46,1 
+
+
+Recursion 92; Table 94
+18,1 49,0 71,1 59,0 90,1 
+97,1 37,1 23,1 68,1 62,1 
+48,0 8,1 14,1 81,1 26,1 
+88,1 4,1 22,1 76,1 12,1 
+60,1 99,1 64,1 17,1 46,1 
+
+
+Recursion 93; Table 94
+18,1 49,1 71,1 59,0 90,1 
+97,1 37,1 23,1 68,1 62,1 
+48,0 8,1 14,1 81,1 26,1 
+88,1 4,1 22,1 76,1 12,1 
+60,1 99,1 64,1 17,1 46,1 
+
+
+Recursion 94; Table 94
+18,1 49,1 71,1 59,0 90,1 
+97,1 37,1 23,1 68,1 62,1 
+48,1 8,1 14,1 81,1 26,1 
+88,1 4,1 22,1 76,1 12,1 
+60,1 99,1 64,1 17,1 46,1 
+
+
+Recursion 95; Table 94
+18,1 49,1 71,1 59,0 90,1 
+97,1 37,1 23,1 68,1 62,1 
+48,1 8,1 14,1 81,1 26,1 
+88,1 4,1 22,1 76,1 12,1 
+60,1 99,1 64,1 17,1 46,1 
+
+
+Recursion 96; Table 94
+18,1 49,1 71,1 59,0 90,1 
+97,1 37,1 23,1 68,1 62,1 
+48,1 8,1 14,1 81,1 26,1 
+88,1 4,1 22,1 76,1 12,1 
+60,1 99,1 64,1 17,1 46,1 
+
+
+Recursion 97; Table 94
+18,1 49,1 71,1 59,1 90,1 
+97,1 37,1 23,1 68,1 62,1 
+48,1 8,1 14,1 81,1 26,1 
+88,1 4,1 22,1 76,1 12,1 
+60,1 99,1 64,1 17,1 46,1 
+
+
+Recursion 98; Table 94
+18,1 49,1 71,1 59,1 90,1 
+97,1 37,1 23,1 68,1 62,1 
+48,1 8,1 14,1 81,1 26,1 
+88,1 4,1 22,1 76,1 12,1 
+60,1 99,1 64,1 17,1 46,1 
+
+
+Recursion 99; Table 94
+18,1 49,1 71,1 59,1 90,1 
+97,1 37,1 23,1 68,1 62,1 
+48,1 8,1 14,1 81,1 26,1 
+88,1 4,1 22,1 76,1 12,1 
+60,1 99,1 64,1 17,1 46,1 
+
+
+90 4 76 29 61 68 18 33 59 19 23 49 37 39 81 53 55 96 38 6 13 30 63 93 64 32 7 12 48 91 99 15 80 88 92 8 17 52 54 83 95 10 27 42 50 60 31 51 57 43 11 22 72 3 21 25 28 44 46 98 62 67 9 34 41 74 85 86 0 24 36 65 82 89 66 14 16 70 79 40 78 56 58 97 1 2 87 45 69 71 75 5 47 73 77 26 35 84 20 94 
