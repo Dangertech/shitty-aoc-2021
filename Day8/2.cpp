@@ -3,7 +3,7 @@
 #include <vector>
 #include <unordered_map>
 
-std::string resloc = "minitry.txt";
+std::string resloc = "input.txt";
 
 std::vector < std::vector < std::string > > output_vals;
 std::vector < std::vector < std::string > > signals;
@@ -86,13 +86,35 @@ int contains (std::string to_comp, std::string chars)
 	return containers;
 }
 
+// Returns true only if the strings are an exact mixed combination 
+// of each other
+bool iscombo (std::string to_comp, std::string combo)
+{
+	if (to_comp.size() != combo.size())
+		return false;
+	 
+	for (int i = 0; i<to_comp.size(); i++)
+	{
+		bool has_match = false;
+		for (int j=0; j<combo.size(); j++)
+		{
+			if (to_comp[i] == combo[j])
+				has_match = true;
+		}
+		if (has_match == false)
+			return false;
+	}
+	return true;
+}
+
 int main()
 {
 	get_input();
 	print_dvector(output_vals);
 	print_dvector(signals);
-	// ??? => Profit!
 	//
+	// Holder of all outputs added together
+	int combined_outputs = 0;
 	// For each separate line
 	for (int puzzle = 0; puzzle < signals.size() && puzzle < output_vals.size(); puzzle++)
 	{
@@ -110,8 +132,9 @@ int main()
 			{9, "!"}
 		};
 		 
-		// Loop twice to make sure that everything gets assigned
-		for (int rep = 0; rep < 2; rep++)
+		// Loop a few times to make sure that everything gets assigned
+		// I know, this could be solved better, but I don't care
+		for (int rep = 0; rep < 4; rep++)
 		{
 			// Traverse through every signal;
 			for (int this_sig = 0; this_sig < signals[puzzle].size(); this_sig++)
@@ -144,7 +167,16 @@ int main()
 				// Determine 2, 3, and 5
 				if (test_sig.size() == 5)
 				{
-					//TODO: Check here
+					if (contains(test_sig, valmap.at(1)) == 2)
+						valmap[3] = test_sig;
+					else
+					{
+						// Either 2 or 5
+						if (contains(test_sig, valmap.at(6)) == 5)
+							valmap[5] = test_sig;
+						else if (contains(test_sig, valmap.at(6)) == 4)
+							valmap[2] = test_sig;
+					}
 				}
 			}
 		}
@@ -153,6 +185,19 @@ int main()
 		{
 			std::cout << i << " " << valmap.at(i) << std::endl;
 		}
-		std::cout << std::endl << std::endl;
+		 
+		std::string combi_str;
+		// Compute out_value combination
+		for (int val = 0; val < output_vals[puzzle].size(); val++)
+		{
+			int cor_val = 0;
+			while(!iscombo(output_vals[puzzle][val], valmap.at(cor_val) ))
+				cor_val++;
+			combi_str += std::to_string(cor_val);
+			std::cout << cor_val;
+		}
+		combined_outputs += stoi(combi_str);
+		std::cout << std::endl << std::endl;;
 	}
+	std::cout << "Combined outputs: " << combined_outputs << std::endl;
 }
