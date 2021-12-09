@@ -59,16 +59,6 @@ bool smallest_int(int to_comp, std::vector<cell> vec)
 	return true;
 }
 
-int has_basin(std::vector <struct cell> cells)
-{
-	for (int i=0; i<cells.size(); i++)
-	{
-		if (cells[i].basin != 0)
-			return cells[i].basin;
-	}
-	return 0;
-}
-
 std::vector <struct cell> get_adjacents(int y, int x)
 {
 	std::vector <struct cell> adjacents;
