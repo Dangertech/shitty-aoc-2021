@@ -105,6 +105,7 @@ void fold(char dir, int loc)
 				}
 			}
 		}
+		dots.erase(dots.begin()+loc, dots.end());
 	}
 	else if (dir == 'x')
 	{
@@ -120,6 +121,7 @@ void fold(char dir, int loc)
 					dots[y][x] = false;
 				}
 			}
+			dots[y].erase(dots[y].begin()+loc, dots[y].end());
 		}
 	}
 }
@@ -148,17 +150,5 @@ int main()
 		fold(list[i].dir, list[i].loc);
 	int all_dots = count_dots();
 	std::cout << all_dots << std::endl;
-	// Print the dots in smaller (I figured these values out by hand)
-	// I'm cheating, I know
-	for (int y = 0; y<6; y++)
-	{
-		for (int x = 0; x<39; x++)
-		{
-			if (dots[y][x])
-				std::cout << "#";
-			else
-				std::cout << ".";
-		}
-		std::cout << std::endl;
-	}
+	print_dots();
 }
