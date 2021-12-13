@@ -1,169 +1,144 @@
 #include <iostream>
 #include <fstream>
-#include <string>
 #include <vector>
-#include<bits/stdc++.h>
-#include <cmath>
 
-// Container of the input
-std::vector < std::string > resholder;
+std::string resloc = "try.txt";
+std::vector <std::string> bits;
 
-bool find_commons(int pos, std::vector < std::string > com_str)
+void print_bits()
 {
-	int zeros = 0, ones = 0;
-	for (long unsigned int i = 0; i<com_str.size(); i++)
+	for (int i = 0; i<bits.size(); i++)
 	{
-		char cur_bin = com_str[i][pos];
-		if (cur_bin == '0')
-			zeros++;
-		else if (cur_bin == '1')
-			ones++;
-	}
-	//std::cout << "Zeros: " << zeros << " Ones: " << ones << std::endl;
-	if (zeros > ones)
-		return 0;
-	else if (ones > zeros)
-		return 1;
-	std::cout << "ERROR! ERROR! ERROR!" << std::endl;
-	return 0;
-}
-
-bool find_bool_commons(int pos, std::vector < std::vector < bool > > com_str)
-{
-	int zeros = 0, ones = 0;
-	for (long unsigned int i = 0; i<com_str.size(); i++)
-	{
-		char cur_bin = com_str[i][pos];
-		if (cur_bin == 0)
-			zeros++;
-		else if (cur_bin == 1)
-			ones++;
-	}
-	std::cout << "Zeros: " << zeros << " Ones: " << ones << std::endl;
-	if (zeros > ones)
-		return 0;
-	else if (ones > zeros)
-		return 1;
-	std::cout << "They are equally as common, giving one!" << std::endl;
-	return 1;
-}
-
-int bintodec(std::vector <bool> bin)
-{
-	int dec = 0;
-	int down_from = bin.size() - 1;
-	for (int i = 0; i<bin.size(); i++)
-	{
-		dec += bin[i] * pow(2, down_from);
-		down_from--;
-	}
-	return dec;
-}
-
-bool invert(bool to_invert)
-{
-	if (to_invert == false)
-		return true;
-	else
-		return false;
-}
-
-std::vector <bool> str_to_boolvec( std::string boolstr)
-{
-	std::vector <bool> out_bool;
-	for (int i=0; i < boolstr.size(); i++)
-	{
-		if (boolstr[i] == '0')
-			out_bool.push_back(0);
-		else if (boolstr[i] == '1')
-			out_bool.push_back(1);
-	}
-	return out_bool;
-}
-
-std::vector < bool > commons;
-std::vector < std::vector < bool > > chosen_bits;
-std::vector < std::vector < bool > > cotwo_bits;
-
-void print_chosen_bits()
-{
-	for (int num = 0; num<cotwo_bits.size(); num++)
-	{
-		std::cout << "CO2 bit " << num << ": ";
-		for (int sub = 0; sub<cotwo_bits[num].size(); sub++)
-		{
-			std::cout << cotwo_bits[num][sub];
-		}
+		for (int j = 0; j<bits[i].size(); j++)
+			std::cout << bits[i][j];
 		std::cout << std::endl;
 	}
 }
 
+void print_stringvec(std::vector<std::string> str)
+{
+	for (int i = 0; i<str.size(); i++)
+		std::cout << i << ": " << str[i] << std::endl;
+}
+
+void get_input()
+{
+	std::ifstream resfile(resloc);
+	std::string cur_line;
+	while (getline(resfile, cur_line))
+	{
+		bits.push_back(cur_line);
+	}
+}
+
+char get_common_bit(std::string str)
+{
+	int zeros = 0, ones = 0;
+	for (int i = 0; i<str.size(); i++)
+	{
+		if (str[i] == '0')
+			zeros++;
+		else if (str[i] == '1')
+			ones++;
+		else
+			std::cout << "get_common_bit: Error, Invalid character in string" << std::endl;
+	}
+	if (zeros > ones)
+		return '0';
+	else if (ones > zeros)
+		return '1';
+	else
+		return '-';
+}
+
+std::vector <std::string> extract_numbers (int pos, char decider, 
+		std::vector <std::string> to_extract)
+{
+	for (int i = 0; i<to_extract.size(); i++)
+	{
+		if (to_extract[i][pos] != decider)
+		{
+			to_extract.erase(to_extract.begin() + i);
+			i = 0;
+		}
+	}
+	return to_extract;
+}
+
+int bintodec(std::string str) 
+{
+	int val = 0;
+	int temp = 1;
+	int len = str.length();
+	for (int i = len - 1; i >= 0; i--) 
+	{
+		if (str[i] == '1')
+			val += temp;
+		temp = temp * 2;
+	}
+	return val;
+}
+
+int get_oxy_rating(std::vector <std::string> alive_numbers)
+{
+	std::cout << "Before Oxygen Manipulation: " << std::endl;
+	print_stringvec(alive_numbers);
+	int pos = 0;
+	while (alive_numbers.size() > 1)
+	{
+		std::string y_comp; // Composite of all numbers in a column
+		for (int number = 0; number<alive_numbers.size(); number++)
+		{
+			y_comp += alive_numbers[number][pos];
+		}
+		char common_bit = get_common_bit(y_comp);
+		if (common_bit == '-')
+			common_bit = '1';
+		std::cout << "Most common bit: " << common_bit << std::endl;
+		alive_numbers = extract_numbers(pos, common_bit, alive_numbers);
+		std::cout << "Oxygen Rating: " << std::endl;
+		print_stringvec(alive_numbers);
+		pos++;
+	}
+	return bintodec(alive_numbers[0]);
+}
+
+int get_scrubber_rating(std::vector <std::string> alive_numbers)
+{
+	std::cout << "Before Scrubber Manipulation: " << std::endl;
+	print_stringvec(alive_numbers);
+	int pos = 0;
+	while (alive_numbers.size() > 1)
+	{
+		std::string y_comp; // Composite of all numbers in a column
+		for (int number = 0; number<alive_numbers.size(); number++)
+		{
+			y_comp += alive_numbers[number][pos];
+		}
+		char common_bit = get_common_bit(y_comp);
+		if (common_bit == '-')
+			common_bit = '0';
+		else if (common_bit == '1')
+			common_bit = '0';
+		else if (common_bit == '0')
+			common_bit = '1';
+		std::cout << "Least common bit: " << common_bit << " on position " << pos <<std::endl;
+		alive_numbers = extract_numbers(pos, common_bit, alive_numbers);
+		std::cout << "CO2 Scrubber Rating: " << std::endl;
+		print_stringvec(alive_numbers);
+		pos++;
+	}
+	return bintodec(alive_numbers[0]);
+}
+
+
 int main()
 {
-	// Get the data into a vector
-	std::ifstream resfile("Day3_Res.txt");
-	std::string cur_line;
-	while (std::getline(resfile, cur_line))
-	{
-		resholder.push_back(cur_line); 
-	}
-	
-	// Push everythinng into both vectors
-	for (int i = 0; i<resholder.size(); i++)
-	{
-		chosen_bits.push_back(str_to_boolvec(resholder[i]));
-		cotwo_bits.push_back(str_to_boolvec(resholder[i]));
-	}
-	
-	 
-	bool test_chosen = true, test_cotwo = true;
-	// Reiterate through the chosen bits
-	for (int col = 0; col<resholder[0].size(); col++)
-	{
-		bool most_common = find_bool_commons(col, chosen_bits);
-		std::cout << "Calculating column " << col << ", most common bit is " << most_common << std::endl;
-		if (test_chosen)
-		{
-			for (int i = 0; i<chosen_bits.size(); i++)
-			{
-				if (chosen_bits[i][col] != most_common)
-				{
-					chosen_bits.erase(chosen_bits.begin() + i); 
-					i = 0;
-				}
-			}
-		}
-		if (test_cotwo)
-		{
-			for (int i= 0; i<cotwo_bits.size(); i++)
-			{
-				if (cotwo_bits[i][col] == most_common)
-				{
-					cotwo_bits.erase(cotwo_bits.begin() + i);
-					i = 0;
-				}
-			}
-		}
-		if (chosen_bits.size() < 2)
-			test_chosen = false;
-		if (cotwo_bits.size() < 2)
-			test_cotwo = false;
-		print_chosen_bits();
-	}
-	print_chosen_bits();
-	 
-	std::vector < bool > oxygen_generator_rating = chosen_bits[0]; 
-	std::vector < bool > cotwo_scrubber_rating = cotwo_bits[0];
-
-	std::cout << "Oxygen generator rating: " << std::endl;
-	for (int i = 0; i<oxygen_generator_rating.size(); i++)
-		std::cout << oxygen_generator_rating[i];
-	std::cout << std::endl;
-	 
-	std::cout << "CO2 scrubber rating: " << std::endl;
-	for (int i = 0; i<cotwo_scrubber_rating.size(); i++)
-		std::cout << cotwo_scrubber_rating[i];
-	std::cout << std::endl;
-	 
-	std::cout << bintodec(oxygen_generator_rating) * bintodec(cotwo_scrubber_rating) << std::endl;
+	get_input();
+	print_bits();
+	int oxy_rating = get_oxy_rating(bits);
+	int scrubber_rating = get_scrubber_rating(bits);
+	std::cout << "Oxy-Rating: " << oxy_rating << std::endl
+			  << "CO2-Scrubber Rating: " << scrubber_rating << std::endl
+			  << "\tMultiplied: " << oxy_rating * scrubber_rating << std::endl;
 }
