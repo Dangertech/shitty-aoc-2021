@@ -2,7 +2,7 @@
 #include <fstream>
 #include <vector>
 
-std::string resloc = "try.txt";
+std::string resloc = "input.txt";
 std::vector <std::string> bits;
 
 void print_bits()
@@ -59,7 +59,7 @@ std::vector <std::string> extract_numbers (int pos, char decider,
 		if (to_extract[i][pos] != decider)
 		{
 			to_extract.erase(to_extract.begin() + i);
-			i = 0;
+			i--;
 		}
 	}
 	return to_extract;
