@@ -3,14 +3,15 @@
 #include <vector>
 #include <unordered_map>
 
-std::string resloc = "try.txt";
+std::string resloc = "input.txt";
 
 // The reaction rules, e.g. NV -> H
 std::unordered_map <std::string, char> rules;
 // All Polymer pairs in the polymer string
-std::unordered_map <std::string, int> polypairs;
+std::unordered_map <std::string, unsigned long> polypairs;
+char first_el, last_el;
 
-int steps = 4;
+int steps = 40;
 
 void print_rules()
 {
@@ -35,6 +36,8 @@ void get_input()
 	{
 		if (line == 1)
 		{
+			first_el = cur_line[0];
+			last_el = cur_line[cur_line.size()-1];
 			for (int i = 0; i<cur_line.size()-1; i++)
 			{
 				std::string polycombi = std::string() + cur_line[i] + cur_line[i+1];
@@ -61,28 +64,19 @@ void get_input()
 	}
 }
 
-std::unordered_map <std::string, int> update_pairs(std::unordered_map <std::string, int> pairs)
+std::unordered_map <std::string, unsigned long> update_pairs(std::unordered_map <std::string, unsigned long> pairs)
 {
 	auto new_pairs = pairs;
-	// For every pair
-	for (const auto& ipair : pairs)
+	for (auto& ipair : pairs)
 	{
-		// You go through every rule
-		for (const auto& irule : rules)
-		{
-			// And look if the pair is the same as the reaction rule
-			if (ipair.first == irule.first && ipair.second > 0)
-			{
-				// CB becomes CHB because of CB -> H
-				// Create two composite containers
-				std::string first_comp, second_comp;
-				first_comp = std::string() + ipair.first[0] + irule.second;
-				second_comp = std::string()+ irule.second + ipair.first[1];
-				new_pairs[ipair.first]--;
-				new_pairs[first_comp]++;
-				new_pairs[second_comp]++;
-			}
-		}
+		new_pairs.find(ipair.first)->second -= ipair.second;
+		char middle = rules.find(ipair.first)->second;
+		auto p1 = new_pairs.insert({{ipair.first[0], middle}, ipair.second});
+		auto p2 = new_pairs.insert({{middle, ipair.first[1]}, ipair.second});
+		if (!p1.second)
+			p1.first->second += ipair.second;
+		if (!p2.second)
+			p2.first->second += ipair.second;
 	}
 	return new_pairs;
 }
@@ -101,11 +95,17 @@ int main()
 		print_pairs();
 	}
 
-	std::unordered_map <char, int> frequency;
+	std::unordered_map <char, unsigned long> frequency;
 	for (const auto& ipair : polypairs)
 	{
 		frequency[ipair.first[0]] += ipair.second;
 		frequency[ipair.first[1]] += ipair.second;
+	}
+	frequency[first_el]++;
+	frequency[last_el]++;
+	for (auto& ifreq : frequency)
+	{
+		frequency[ifreq.first] /= 2;
 	}
 	for (auto& ifreq : frequency)
 		std::cout << ifreq.first << ": " << ifreq.second << std::endl;
